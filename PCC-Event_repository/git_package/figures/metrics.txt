@@ -1,0 +1,8 @@
+Total events: 893793
+Sensor: 240x180
+Duration: 500 ms
+C: 0.15
+f_VG: 0.087
+ROI_EF ratio: 0.496
+r_C min during dip: -0.092
+r_C mean outside dip: 0.931
